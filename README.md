@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m [Your Name]
 
-<!--
-**saif0200/saif0200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-Year Student at the University of Alberta (UofA)**  
+📍 Edmonton, Alberta  
 
-Here are some ideas to get you started:
+## About Me
+I’m a first-year undergraduate student at the University of Alberta with an interest in learning, building, and exploring technology. I’m currently developing my foundational skills through coursework and personal projects, and using GitHub to track my progress and growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Programming and software development  
+- Problem-solving and logical thinking  
+- Learning new technologies and tools  
+- Academic and personal projects  
+
+## What You’ll Find Here
+- Coursework-related projects  
+- Practice repositories and experiments  
+- Small personal projects as I learn new concepts  
+
+## Currently Learning
+- Programming fundamentals  
+- Version control with Git and GitHub  
+- University-level problem solving and study workflows  
+
+## Goals
+- Build a strong technical foundation  
+- Contribute to meaningful projects  
+- Continuously improve as a student and developer  
+
+## Connect
+- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- University of Alberta student  
+
+---
+
+⭐ *This profile will grow as I learn and build more projects.*
