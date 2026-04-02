@@ -21,7 +21,7 @@
 ## about
 
 - first-year cs student, into native desktop apps and shipping side projects
-- addicted to building things (latest: [notchprompt](https://github.com/saif0200/notchprompt) — 450+ stars)
+- addicted to building things (latest: [notchprompt](https://github.com/saif0200/notchprompt) — 650+ stars)
 - currently deep in swift and macos development
 
 ## projects
