@@ -15,7 +15,7 @@
 
 <!-- stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saif0200&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true&theme=nord&bg_color=00000000" width="420" />
+ <img src="https://streak-stats.demolab.com?user=saif0200&hide_border=true&theme=nord&background=00000000" width="420" />
 </p>
 
 ## about
