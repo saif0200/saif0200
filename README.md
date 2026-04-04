@@ -31,3 +31,7 @@
 - 🎤 **[interview.me](https://github.com/saif0200/interview.me)** — ai voice mock interview platform. digitalocean hackathon. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="18"/>
 - ⚡ **[promptsh](https://github.com/saif0200/promptsh)** — cli tool that turns natural language into shell commands. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" height="18"/>
 - 📝 **[sample-gen](https://github.com/saif0200/sample-gen)** — ai exam generator that turns past exam pdfs into practice papers. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="18"/>
+
+<p align="center">
+  <sub>open to collabs — working on something cool? <a href="mailto:saifahmedraafat@gmail.com">let's talk</a></sub>
+</p>
