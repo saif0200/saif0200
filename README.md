@@ -17,11 +17,12 @@
 
 ## about
 - love building cool stuff and shipping it fast
-- latest: notchprompt (650+ stars), tomo
+- latest: guardready (1st place aws devcon), notchprompt (650+ stars)
 
 ## projects
 - 🖥️ **[notchprompt](https://github.com/saif0200/notchprompt)** — teleprompter that lives in the macbook notch. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" height="18"/>
 - 🦫 **[tomo](https://github.com/saif0200/tomo)** — cross-platform desktop ai overlay. run local or bring your own keys. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tauri-Dark.svg" height="18"/>
+- 🏆 **[guardready](https://github.com/Aarushb/eu_devcon_26)** — ai-graded scenario learning for the alberta basic security training exam. 1st place aws devcon. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="18"/>
 - 🎤 **[interview.me](https://github.com/saif0200/interview.me)** — ai voice mock interview platform. digitalocean hackathon. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="18"/>
 - ⚡ **[promptsh](https://github.com/saif0200/promptsh)** — cli tool that turns natural language into shell commands. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" height="18"/>
 - 📝 **[sample-gen](https://github.com/saif0200/sample-gen)** — ai exam generator that turns past exam pdfs into practice papers. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="18"/>
