@@ -20,7 +20,7 @@
 
 ## about
 - love building cool stuff and shipping it fast
-- latest: guardready (1st place aws devcon), notchprompt (650+ stars)
+- latest: guardready (1st place aws devcon), notchprompt (750+ stars)
 
 ## projects
 - 🖥️ **[notchprompt](https://github.com/saif0200/notchprompt)** — teleprompter that lives in the macbook notch. <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" height="18"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" height="18"/>
