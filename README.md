@@ -5,7 +5,7 @@
 
 <!-- subtitle -->
 <p align="center">
-  first-year cs student @ <img src="https://media.licdn.com/dms/image/v2/D560BAQGIXcY0sg1nVQ/company-logo_200_200/company-logo_200_200/0/1725657074608/university_of_alberta_logo?e=2147483647&v=beta&t=DXz2arOfsYHckuy6Yk6dQNSf55LW3LrdPuPxB8aQKlQ" width="16"/> university of alberta · <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="14"/> edmonton, canada
+  second-year cs student @ <img src="https://media.licdn.com/dms/image/v2/D560BAQGIXcY0sg1nVQ/company-logo_200_200/company-logo_200_200/0/1725657074608/university_of_alberta_logo?e=2147483647&v=beta&t=DXz2arOfsYHckuy6Yk6dQNSf55LW3LrdPuPxB8aQKlQ" width="16"/> university of alberta · <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="14"/> edmonton, canada
 </p>
 
 <!-- socials -->
